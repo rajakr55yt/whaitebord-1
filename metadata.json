@@ -1,0 +1,7 @@
+{
+  "name": "WhiteBoard",
+  "description": "Full-featured interactive whiteboard with multi-layers, math formulas, science diagrams, smart shapes, custom textures, stickers, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
